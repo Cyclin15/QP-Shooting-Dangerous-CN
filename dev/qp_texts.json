@@ -1,0 +1,1144 @@
+{
+ "shop00.txt": [
+  {
+   "line": 17,
+   "text": "Welcome to the Rbit Room! How may I help you today?\r"
+  }
+ ],
+ "shop01.txt": [
+  {
+   "line": 17,
+   "text": "Glad you could make it... Take your time and have a look around.\r"
+  }
+ ],
+ "stage011.txt": [
+  {
+   "line": 17,
+   "text": "There's no pudding anywhere in sight... In fact, no one seems to even know what it is...\r"
+  },
+  {
+   "line": 41,
+   "text": "What the heck is going on?\r"
+  },
+  {
+   "line": 57,
+   "text": "...I mustn't hesitate, even now! Desperate times call for desperate measures!\r"
+  },
+  {
+   "line": 81,
+   "text": "Helloooo? Is there anyone out there who knows of pudding!?\r"
+  },
+  {
+   "line": 97,
+   "text": "Anyooooone? Puddiiiiing!?\r"
+  },
+  {
+   "line": 121,
+   "text": "S... someone... Anyone... Pudding...\r"
+  },
+  {
+   "line": 145,
+   "text": "...\r"
+  },
+  {
+   "line": 169,
+   "text": "...Am I just being stupid...?\r"
+  },
+  {
+   "line": 193,
+   "text": "QP, you idiot!\r"
+  },
+  {
+   "line": 237,
+   "text": "Ah! Syura!!\r"
+  },
+  {
+   "line": 252,
+   "text": "Syura, my dearest friend!\r"
+  },
+  {
+   "line": 276,
+   "text": "...Ex-friend, if you keep acting like that.\r"
+  },
+  {
+   "line": 300,
+   "text": "How cruel!\r"
+  },
+  {
+   "line": 324,
+   "text": "You're the cruel one!\r"
+  },
+  {
+   "line": 348,
+   "text": "Eek! Your words cut like a knife in my heart!\r"
+  },
+  {
+   "line": 372,
+   "text": "You're too noisy this morning... Our deadline is looming, and we're already at the gates of death.\r"
+  },
+  {
+   "line": 396,
+   "text": "As usual, we're going to be stuck in the Indie Games group...\r"
+  },
+  {
+   "line": 420,
+   "text": "Nevermind that! That's not why I'm here!\r"
+  },
+  {
+   "line": 444,
+   "text": "Syura! Do you remember pudding!?\r"
+  },
+  {
+   "line": 468,
+   "text": "Huh? Are there people who don't know of it?\r"
+  },
+  {
+   "line": 492,
+   "text": "S... Syura, you remember?\r"
+  },
+  {
+   "line": 507,
+   "text": "Yeah, it's that small fry enemy in FF, right?\r"
+  },
+  {
+   "line": 531,
+   "text": "That's common sense to a gamer!\r"
+  },
+  {
+   "line": 555,
+   "text": "That's not it!!\r"
+  },
+  {
+   "line": 579,
+   "text": "Huh?\r"
+  },
+  {
+   "line": 603,
+   "text": "Sweet, soft, and delicious, it's the ultimate of sweets!!\r"
+  },
+  {
+   "line": 627,
+   "text": "...What are you going on about?\r"
+  },
+  {
+   "line": 651,
+   "text": "So you don't remember, after all!!\r"
+  },
+  {
+   "line": 675,
+   "text": "Syura... I even shared my pudding because we were friends...\r"
+  },
+  {
+   "line": 699,
+   "text": "What are you-...\r"
+  },
+  {
+   "line": 723,
+   "text": "So it's come to this, has it...\r"
+  },
+  {
+   "line": 747,
+   "text": "I'll just have to beat some sense into you, then you'll have no choice but to remember!\r"
+  },
+  {
+   "line": 771,
+   "text": "Whaaa!?\r"
+  },
+  {
+   "line": 795,
+   "text": "Prepare yourself, Syura!!\r"
+  }
+ ],
+ "stage012.txt": [
+  {
+   "line": 17,
+   "text": "Impressive, QP. You're good!\r"
+  },
+  {
+   "line": 41,
+   "text": "It's Piyo's turn now! Syura's powers go beyond Hell itself! Allow me to demonstrate!\r"
+  },
+  {
+   "line": 61,
+   "text": "Oowoh!\r"
+  },
+  {
+   "line": 92,
+   "text": "Piyoko Deluxe!!\r"
+  }
+ ],
+ "stage013.txt": [
+  {
+   "line": 17,
+   "text": "Kyuu...\r"
+  },
+  {
+   "line": 37,
+   "text": "So, Syura, do you remember pudding now?\r"
+  },
+  {
+   "line": 61,
+   "text": "Po... Poke... mo...\r"
+  },
+  {
+   "line": 83,
+   "text": "Games-for-brains!\r"
+  },
+  {
+   "line": 107,
+   "text": "Ugwaaa.\r"
+  }
+ ],
+ "stage021.txt": [
+  {
+   "line": 17,
+   "text": "Pudding is gone... Even from the memories of everyone in existence...\r"
+  },
+  {
+   "line": 41,
+   "text": "What in the world is going on?\r"
+  },
+  {
+   "line": 61,
+   "text": "What... the...\r"
+  },
+  {
+   "line": 85,
+   "text": "Hmm?\r"
+  },
+  {
+   "line": 109,
+   "text": "Kyupita... What the heck are you doing here...\r"
+  },
+  {
+   "line": 133,
+   "text": "...Disguised as a woman!?\r"
+  },
+  {
+   "line": 157,
+   "text": "Disguised as a woman??\r"
+  },
+  {
+   "line": 181,
+   "text": "Oh please, we are both men here, and that's a fact.\r"
+  },
+  {
+   "line": 205,
+   "text": "Admit it, crossdresser!\r"
+  },
+  {
+   "line": 229,
+   "text": "You're mistaken, and rudely at that!\r"
+  },
+  {
+   "line": 253,
+   "text": "Oh... How deplorable...\r"
+  },
+  {
+   "line": 268,
+   "text": "For someone like Kyupita to dress like a girl... What trash you've become.\r"
+  },
+  {
+   "line": 292,
+   "text": "Kuh... Trash!?\r"
+  },
+  {
+   "line": 307,
+   "text": "Lovely flowers in muddy water, a spray of brutality.\r"
+  },
+  {
+   "line": 331,
+   "text": "Listen to me, Kyupita!\r"
+  },
+  {
+   "line": 346,
+   "text": "You're not cute at all, right now... Stop looking like this.\r"
+  },
+  {
+   "line": 370,
+   "text": "Grr!!\r"
+  },
+  {
+   "line": 394,
+   "text": "This is a misunderstanding, and besides, I transcend cute! I'm a girl of absolute beauty!\r"
+  },
+  {
+   "line": 418,
+   "text": "I was already angry! Surely you could hear my lamenting over pudding! But it's come to this...\r"
+  },
+  {
+   "line": 442,
+   "text": "If you won't stop looking like this, then I'll just have to stop you myself...\r"
+  },
+  {
+   "line": 481,
+   "text": "  I'll beat you down!\r"
+  }
+ ],
+ "stage022.txt": [
+  {
+   "line": 17,
+   "text": "This calls for a good distraction...\r"
+  }
+ ],
+ "stage023.txt": [
+  {
+   "line": 17,
+   "text": "Phew, that was a rush!\r"
+  },
+  {
+   "line": 37,
+   "text": "You've grown stronger... Kyupita.\r"
+  },
+  {
+   "line": 61,
+   "text": "I told you, you're mistaken!\r"
+  },
+  {
+   "line": 85,
+   "text": "...I'll set that aside for the moment...\r"
+  },
+  {
+   "line": 100,
+   "text": "All I'm really worried about is pudding.\r"
+  },
+  {
+   "line": 115,
+   "text": "I don't have any clues about any of this, but I have to try...\r"
+  },
+  {
+   "line": 139,
+   "text": "Pudding... you said?\r"
+  },
+  {
+   "line": 163,
+   "text": "Mister, you know about pudding!?\r"
+  },
+  {
+   "line": 187,
+   "text": "Nope... I don't know, myself.\r"
+  },
+  {
+   "line": 211,
+   "text": "But this morning, I saw a woman going around yelling, \"Pudding, pudding.\"\r"
+  },
+  {
+   "line": 235,
+   "text": "H... how suspicious.\r"
+  },
+  {
+   "line": 259,
+   "text": "E... even so, where is this person!?\r"
+  },
+  {
+   "line": 283,
+   "text": "Hrm... I didn't want to make eye contact with her, so I'm not sure, but...\r"
+  },
+  {
+   "line": 307,
+   "text": "I think she was heading toward the town circus.\r"
+  },
+  {
+   "line": 331,
+   "text": "Clue GET!!\r"
+  },
+  {
+   "line": 355,
+   "text": "Thanks a lot, Mister!\r"
+  },
+  {
+   "line": 385,
+   "text": "So you're leaving me behind... Kyupita...\r"
+  }
+ ],
+ "stage031.txt": [
+  {
+   "line": 17,
+   "text": "This must be the place that guy was talking about...\r"
+  },
+  {
+   "line": 37,
+   "text": "...Oh, so you've come...\r"
+  },
+  {
+   "line": 61,
+   "text": "Who's there!?\r"
+  },
+  {
+   "line": 85,
+   "text": "Pudding...\r"
+  },
+  {
+   "line": 109,
+   "text": "So you know of pudding!!\r"
+  },
+  {
+   "line": 133,
+   "text": "The seductive fruit bathed in deep darkness...\r"
+  },
+  {
+   "line": 157,
+   "text": "Its existence brings happiness to people, but confusion to the world.\r"
+  },
+  {
+   "line": 181,
+   "text": "I'm not really sure what you're saying, but it does seem like you know pudding.\r"
+  },
+  {
+   "line": 205,
+   "text": "I wonder... perhaps you could say I do...\r"
+  },
+  {
+   "line": 229,
+   "text": "It is not transcribed in the mind of this Krilalaris... only in that of the great god of darkness I worship.\r"
+  },
+  {
+   "line": 253,
+   "text": "I need a translation! Someone, please, translate!\r"
+  },
+  {
+   "line": 273,
+   "text": "\"I don't actually know about pudding, but my boss does!\"\r"
+  },
+  {
+   "line": 320,
+   "text": "Who's there now!?\r"
+  },
+  {
+   "line": 344,
+   "text": "Be that as it may be...\r"
+  },
+  {
+   "line": 358,
+   "text": "Right now, could you take me to this boss of yours?\r"
+  },
+  {
+   "line": 382,
+   "text": "We'll have a duel... If you win, I'll show you the way.\r"
+  },
+  {
+   "line": 406,
+   "text": "Otherwise, you could always treat me to a rice dinner.\r"
+  },
+  {
+   "line": 430,
+   "text": "I haven't had a single grain... In over three days.\r"
+  },
+  {
+   "line": 450,
+   "text": "\"Win and be shown the way! Or just treat us to rice!\"\r"
+  },
+  {
+   "line": 480,
+   "text": "I don't need a translation for that one!\r"
+  },
+  {
+   "line": 504,
+   "text": "Ooh... I'd have preferred to handle things peacefully if possible, but...\r"
+  },
+  {
+   "line": 528,
+   "text": "You see... I don't have any money.\r"
+  },
+  {
+   "line": 552,
+   "text": "!?\r"
+  },
+  {
+   "line": 566,
+   "text": "I bought a sweet roll with my last 100 yen just a while ago.\r"
+  },
+  {
+   "line": 590,
+   "text": "That will do just fine... Fermented wheat, filled with red bean paste...\r"
+  },
+  {
+   "line": 604,
+   "text": "I already ate it.\r"
+  },
+  {
+   "line": 628,
+   "text": "!?\r"
+  },
+  {
+   "line": 652,
+   "text": "...Death to you...\r"
+  },
+  {
+   "line": 676,
+   "text": "Just like that, no questions asked!?\r"
+  }
+ ],
+ "stage032.txt": [
+  {
+   "line": 17,
+   "text": "Come forth, king of beasts... Bring forth sleep with dreams of wheat and rice... Let our little beasts never starve.\r"
+  }
+ ],
+ "stage033.txt": [
+  {
+   "line": 17,
+   "text": "...My life... is fading away.\r"
+  },
+  {
+   "line": 37,
+   "text": "\"I'm dying!\"\r"
+  },
+  {
+   "line": 63,
+   "text": "Before you die, please take me to your boss, as quickly as possible!\r"
+  },
+  {
+   "line": 98,
+   "text": "Heresy...\r"
+  },
+  {
+   "line": 128,
+   "text": "Say what you want, but I want to go right to the pudding!\r"
+  },
+  {
+   "line": 152,
+   "text": "...Our dark god... is over there.\r"
+  },
+  {
+   "line": 176,
+   "text": "Yikes, so it's that simple...\r"
+  },
+  {
+   "line": 200,
+   "text": "Go and see for yourself...\r"
+  },
+  {
+   "line": 224,
+   "text": "Understood! I'll go right away, with haste!\r"
+  },
+  {
+   "line": 248,
+   "text": "Ah, right.\r"
+  },
+  {
+   "line": 262,
+   "text": "I just remembered, I have some candy in my pocket. You can have it! A present!\r"
+  },
+  {
+   "line": 286,
+   "text": "!?\r"
+  },
+  {
+   "line": 310,
+   "text": "Farewell!\r"
+  },
+  {
+   "line": 340,
+   "text": "...\r"
+  },
+  {
+   "line": 364,
+   "text": "What sweet bliss... I don't mind burning in heaven like this.\r"
+  },
+  {
+   "line": 384,
+   "text": "\"I'm dying of deliciousness!\"\r"
+  }
+ ],
+ "stage041.txt": [
+  {
+   "line": 17,
+   "text": "QP... I thought you'd come.\r"
+  },
+  {
+   "line": 37,
+   "text": "Yuki... I had a feeling it was you...!!\r"
+  },
+  {
+   "line": 63,
+   "text": "You were the one behind all this, after all!\r"
+  },
+  {
+   "line": 89,
+   "text": "Hmph.\r"
+  },
+  {
+   "line": 115,
+   "text": "Why would you erase pudding from existence?\r"
+  },
+  {
+   "line": 129,
+   "text": "...\r"
+  },
+  {
+   "line": 155,
+   "text": "Say something, please!\r"
+  },
+  {
+   "line": 181,
+   "text": "Shut up!\r"
+  },
+  {
+   "line": 207,
+   "text": "!?\r"
+  },
+  {
+   "line": 233,
+   "text": "I don't need to explain anything to you.\r"
+  },
+  {
+   "line": 259,
+   "text": "If you really love pudding so much...\r"
+  },
+  {
+   "line": 285,
+   "text": "Then express it through sheer loving force!\r"
+  }
+ ],
+ "stage042.txt": [
+  {
+   "line": 17,
+   "text": "Not yet! You can't stop now!\r"
+  },
+  {
+   "line": 43,
+   "text": "If this is the extent of your love, you'll never be able to have pudding again.\r"
+  },
+  {
+   "line": 63,
+   "text": "Never... again...?\r"
+  },
+  {
+   "line": 89,
+   "text": "That's right! Not even for dessert, or on your birthday!\r"
+  },
+  {
+   "line": 115,
+   "text": "You'll never see such a thing as pudding ever again!\r"
+  },
+  {
+   "line": 141,
+   "text": "No way... That can't be...\r"
+  },
+  {
+   "line": 167,
+   "text": "It's true! You'll have to push the very boundaries of our dimension to break through!\r"
+  },
+  {
+   "line": 193,
+   "text": "Y-yes!!!\r"
+  }
+ ],
+ "stage043bad.txt": [
+  {
+   "line": 17,
+   "text": "Hah... Hah...\r"
+  },
+  {
+   "line": 37,
+   "text": "No good... This isn't enough...\r"
+  },
+  {
+   "line": 52,
+   "text": "...You couldn't handle it, after all...\r"
+  },
+  {
+   "line": 67,
+   "text": "Wh-what are you saying...?\r"
+  },
+  {
+   "line": 82,
+   "text": "If you can't win this battle, pudding has no future.\r"
+  },
+  {
+   "line": 97,
+   "text": "Pudding's... future...\r"
+  },
+  {
+   "line": 112,
+   "text": "From now on, we'll just have to set our sights sky-high.\r"
+  },
+  {
+   "line": 127,
+   "text": "The goal? \"S. Breaker.\"\r"
+  },
+  {
+   "line": 142,
+   "text": "Minions: \"Roger that!!\"\r"
+  },
+  {
+   "line": 157,
+   "text": "Later, QP.\r"
+  },
+  {
+   "line": 172,
+   "text": "Wait! Yuki!!\r"
+  }
+ ],
+ "stage043true.txt": [
+  {
+   "line": 17,
+   "text": "Your love is powerful indeed.\r"
+  },
+  {
+   "line": 43,
+   "text": "So from here, it's up to you.\r"
+  },
+  {
+   "line": 63,
+   "text": "What do you mean, Yuki, that it's up to me?\r"
+  },
+  {
+   "line": 89,
+   "text": "Take care of this situation... and the mastermind behind it.\r"
+  },
+  {
+   "line": 115,
+   "text": "Ehh!?\r"
+  },
+  {
+   "line": 141,
+   "text": "The one with the power to remove pudding from the world... and human memory.\r"
+  },
+  {
+   "line": 167,
+   "text": "S. Breaker...\r"
+  },
+  {
+   "line": 193,
+   "text": "A difficult opponent, even with the power of the entire city.\r"
+  },
+  {
+   "line": 219,
+   "text": "Such a strong foe, huh...\r"
+  },
+  {
+   "line": 245,
+   "text": "But if you're the one fighting... then just maybe...\r"
+  },
+  {
+   "line": 271,
+   "text": "Yuki?\r"
+  },
+  {
+   "line": 297,
+   "text": "...Here, take this.\r"
+  },
+  {
+   "line": 323,
+   "text": "This is... puddiiing!\r"
+  },
+  {
+   "line": 349,
+   "text": "It's the last bit of it left in this entire world.\r"
+  },
+  {
+   "line": 375,
+   "text": "...This pudding's... the last...\r"
+  },
+  {
+   "line": 401,
+   "text": "...It's all right.\r"
+  },
+  {
+   "line": 416,
+   "text": "If you win, the world will go back to normal.\r"
+  },
+  {
+   "line": 442,
+   "text": "...If I... win...\r"
+  },
+  {
+   "line": 468,
+   "text": "QP.\r"
+  },
+  {
+   "line": 494,
+   "text": "For the pudding of this world... and the memories of those who loved it so dearly...\r"
+  },
+  {
+   "line": 520,
+   "text": "I'll use my love to bring it all back!\r"
+  },
+  {
+   "line": 546,
+   "text": "Yeah. I'll leave the rest to you!\r"
+  }
+ ],
+ "stage051.txt": [
+  {
+   "line": 18,
+   "text": "It's you... the one drawn by instinct to the struggle for pudding.\r"
+  },
+  {
+   "line": 38,
+   "text": "So you're the mastermind behind all this...!?\r"
+  },
+  {
+   "line": 64,
+   "text": "Mastermind? How rude.\r"
+  },
+  {
+   "line": 78,
+   "text": "I merely act to maintain order within this world.\r"
+  },
+  {
+   "line": 104,
+   "text": "Order within the world...? What the heck does pudding have to do with that!?\r"
+  },
+  {
+   "line": 130,
+   "text": "Bringing happiness to those who eat it, spreading sweet happiness throughout the world...\r"
+  },
+  {
+   "line": 144,
+   "text": "That's the duty of sweets.\r"
+  },
+  {
+   "line": 170,
+   "text": "But pudding went beyond the call of that duty.\r"
+  },
+  {
+   "line": 184,
+   "text": "It's far too delectable, and through that, it brings a hunger for chaos.\r"
+  },
+  {
+   "line": 198,
+   "text": "As a result, fear and sadness run rampant in this world.\r"
+  },
+  {
+   "line": 224,
+   "text": "Pudding... brings conflict...?\r"
+  },
+  {
+   "line": 250,
+   "text": "And that's why pudding had to be sealed away.\r"
+  },
+  {
+   "line": 276,
+   "text": "You've got it all wrong!\r"
+  },
+  {
+   "line": 302,
+   "text": "Pudding brings only happiness!\r"
+  },
+  {
+   "line": 328,
+   "text": "I always have pudding for a snack! It's such a small thing, but it fills my days with happiness!\r"
+  },
+  {
+   "line": 342,
+   "text": "Every time I bring it to my mouth, I am filled with happiness, inside and out!\r"
+  },
+  {
+   "line": 356,
+   "text": "It makes me happy to be alive!\r"
+  },
+  {
+   "line": 382,
+   "text": "Without pudding in my life... all of that happiness disappears!\r"
+  },
+  {
+   "line": 408,
+   "text": "And so, to keep that happiness safe, I will defeat you!\r"
+  },
+  {
+   "line": 434,
+   "text": "And even if you win, I won't stop talking about the happiness pudding has always brought me!\r"
+  },
+  {
+   "line": 460,
+   "text": "So it's to be a fight, then... I suppose you don't yet understand the curse of pudding.\r"
+  },
+  {
+   "line": 486,
+   "text": "I am one of the Six Gods of Sweets, Sweet Breaker!\r"
+  },
+  {
+   "line": 512,
+   "text": "How foolish you are to have challenged a God. Prepare to taste your bitter defeat!\r"
+  }
+ ],
+ "stage052.txt": [
+  {
+   "line": 17,
+   "text": "What a beastly power you've brought forth.\r"
+  },
+  {
+   "line": 38,
+   "text": "My love of pudding is my strength!\r"
+  },
+  {
+   "line": 64,
+   "text": "Your love of pudding... is it?\r"
+  },
+  {
+   "line": 90,
+   "text": "Your love is so powerful it overcame my memory seal, and you remembered...\r"
+  },
+  {
+   "line": 104,
+   "text": "Even so...\r"
+  },
+  {
+   "line": 130,
+   "text": "That simply means I have to seal you here and now, doesn't it?\r"
+  },
+  {
+   "line": 156,
+   "text": "!?\r"
+  },
+  {
+   "line": 182,
+   "text": "Do not fear.\r"
+  },
+  {
+   "line": 196,
+   "text": "Even without your memories of pudding, you'll find happiness in other sweet things.\r"
+  },
+  {
+   "line": 222,
+   "text": "No... I could never... And I won't forget pudding.\r"
+  },
+  {
+   "line": 248,
+   "text": "Be sealed!!\r"
+  }
+ ],
+ "stage052bad.txt": [
+  {
+   "line": 15,
+   "text": "Blah blah.\r"
+  },
+  {
+   "line": 33,
+   "text": "Blah blah.\r"
+  }
+ ],
+ "stage052true1.txt": [
+  {
+   "line": 17,
+   "text": "...!?\r"
+  },
+  {
+   "line": 37,
+   "text": "...Why... My seal has no effect...\r"
+  },
+  {
+   "line": 61,
+   "text": "...The pudding Yuki gave me... It's shining...\r"
+  },
+  {
+   "line": 81,
+   "text": "...Don't give up...\r"
+  },
+  {
+   "line": 105,
+   "text": "The pudding spoke!?\r"
+  },
+  {
+   "line": 129,
+   "text": "This light... it can't be.\r"
+  },
+  {
+   "line": 145,
+   "text": "This is a miracle of your love...\r"
+  },
+  {
+   "line": 169,
+   "text": "My little... pudding...\r"
+  },
+  {
+   "line": 185,
+   "text": "QP, you should be able to handle this now.\r"
+  },
+  {
+   "line": 201,
+   "text": "We'll let not just your love, but the whole world's love, become your power!\r"
+  },
+  {
+   "line": 225,
+   "text": "The world's love...\r"
+  },
+  {
+   "line": 241,
+   "text": "That's right. We'll bring together everyone's love, and be unstoppable!\r"
+  },
+  {
+   "line": 265,
+   "text": "You say that as though it will be that easy...\r"
+  }
+ ],
+ "stage052true2.txt": [
+  {
+   "line": 17,
+   "text": "What!?\r"
+  },
+  {
+   "line": 37,
+   "text": "The love is... gathering!\r"
+  },
+  {
+   "line": 57,
+   "text": "This is the power of the bonds you've forged through pudding!\r"
+  },
+  {
+   "line": 81,
+   "text": "How foolish!\r"
+  },
+  {
+   "line": 98,
+   "text": "QP, your heart is filled with love for me!\r"
+  },
+  {
+   "line": 114,
+   "text": "If you can protect me...\r"
+  },
+  {
+   "line": 130,
+   "text": "Then I will be your power!\r"
+  },
+  {
+   "line": 154,
+   "text": "My little pudding... I...\r"
+  },
+  {
+   "line": 170,
+   "text": "I... love you so much.\r"
+  },
+  {
+   "line": 194,
+   "text": "It drives me crazy, I love you so much... and I can't stop that feeling!\r"
+  },
+  {
+   "line": 210,
+   "text": "It pours out from my heart as though it were infinite!\r"
+  },
+  {
+   "line": 226,
+   "text": "...Well, QP, if you let all of the world's love gather in your heart, then it truly will be infinite!\r"
+  },
+  {
+   "line": 250,
+   "text": "Yes!\r"
+  },
+  {
+   "line": 274,
+   "text": "Time to dig in!!!\r"
+  }
+ ],
+ "stage052true3.txt": [
+  {
+   "line": 17,
+   "text": "Your power... is as strong as mine!?\r"
+  },
+  {
+   "line": 37,
+   "text": "If you should be a destroyer of sweets...\r"
+  },
+  {
+   "line": 61,
+   "text": "Then I shall be a guardian of them in kind.\r"
+  },
+  {
+   "line": 85,
+   "text": "A Sweet Guardian... with the power of a God.\r"
+  },
+  {
+   "line": 109,
+   "text": "Even so...\r"
+  },
+  {
+   "line": 133,
+   "text": "I am Sweet Breaker!\r"
+  },
+  {
+   "line": 149,
+   "text": "Even with another God as my opponent, for the sake of the world, I will put an end to pudding!!\r"
+  },
+  {
+   "line": 173,
+   "text": "I will absolutely not allow that, ever!\r"
+  },
+  {
+   "line": 197,
+   "text": "I love it just as much as you abhor it!\r"
+  }
+ ],
+ "stage053.txt": [
+  {
+   "line": 17,
+   "text": "So this world wants to perish in the chaos of pudding... But why?\r"
+  },
+  {
+   "line": 37,
+   "text": "You say that... but I won't allow it to happen.\r"
+  },
+  {
+   "line": 63,
+   "text": "Just what kind of monster are you, anyway...\r"
+  },
+  {
+   "line": 89,
+   "text": "No... I suppose you're simply the one fated to protect the sweets... Sweet Guardian.\r"
+  },
+  {
+   "line": 103,
+   "text": "With the love of the world, you'll watch over the pudding as its guardian.\r"
+  },
+  {
+   "line": 117,
+   "text": "You'll put an end to my anxieties and make them unfounded.\r"
+  },
+  {
+   "line": 143,
+   "text": "Yes. Chaos wrought by pudding? I absolutely will not allow it!\r"
+  },
+  {
+   "line": 169,
+   "text": "...\r"
+  },
+  {
+   "line": 195,
+   "text": "Then, my child, I no longer wish to seal you away.\r"
+  },
+  {
+   "line": 221,
+   "text": "...Child?\r"
+  },
+  {
+   "line": 247,
+   "text": "I am the Breaker, but also the Creator...\r"
+  },
+  {
+   "line": 273,
+   "text": "Bring the world sweet happiness... and may it last forever.\r"
+  },
+  {
+   "line": 299,
+   "text": "We will, I promise!\r"
+  },
+  {
+   "line": 325,
+   "text": "Thank you...\r"
+  }
+ ],
+ "usa_form_obit.txt": [
+  {
+   "line": 17,
+   "text": "[Orbit] Formation.\r"
+  },
+  {
+   "line": 33,
+   "text": "Moves around QP\\nand attacks in\\nall directions.\r"
+  },
+  {
+   "line": 49,
+   "text": "While it may appear versatile,\\nits power is limited,\\nso you must not get cocky.\r"
+  },
+  {
+   "line": 65,
+   "text": "Recommended degree, C.\r"
+  },
+  {
+   "line": 81,
+   "text": "Try it out for yourself.\r"
+  }
+ ]
+}
